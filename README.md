@@ -24,7 +24,9 @@ cargo run
 #### 3. Final Conditions
 --------
 
-*(Note: "." is symbolic "X"/"O"/".", while "@" **must** be "X"/"O")*
+Note the following  
+```"."``` is symbolic of ```"X"/"O"/"."```   
+```"@"``` **must** be ```"X"/"O"```
 
 Row win states
 ```
