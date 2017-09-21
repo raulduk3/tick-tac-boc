@@ -1,0 +1,8 @@
+[package]
+name = "tick_tack_bot"
+version = "0.1.0"
+authors = ["Richard Alvarez <richard@thestage>"]
+
+[dependencies]
+colored = "1.5"
+rand = "0.3.16"
